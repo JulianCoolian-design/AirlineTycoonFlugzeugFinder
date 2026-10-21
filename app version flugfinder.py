@@ -21,6 +21,8 @@ FLUGZEUGE = [
     # [cite: 1, 2]
     {"name": "787-8", "preis": 206800000, "reichweite": 15196, "sitze": 381, "verbrauch": 2.23, "abnutzung": 1.6},
     # [cite: 1, 2]
+    {"name": "747-300", "preis": 272500000, "reichweite": 12400, "sitze": 608, "verbrauch": 2.43, "abnutzung": 2.6},
+    # [cite: 1, 2]
     {"name": "747-8I", "preis": 352800000, "reichweite": 14825, "sitze": 730, "verbrauch": 2.24, "abnutzung": 1.6},
     # [cite: 1, 2]
 ]
